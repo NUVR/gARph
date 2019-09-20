@@ -8,10 +8,7 @@ EditorBuildSettings:
   - enabled: 0
     path: 
     guid: 00000000000000000000000000000000
-  - enabled: 0
-    path: Assets/GoogleARCore/Examples/HelloAR/Scenes/HelloAR.unity
-    guid: e6a6fa04348cb45c9b0221eb19c946da
   - enabled: 1
-    path: Assets/Education/Scenes/ObjectManipulation.unity
+    path: Assets/Education/Scenes/Graph Drag n' Drop.unity
     guid: 9dba7e74f4d2b410f90b920f80528d44
   m_configObjects: {}
